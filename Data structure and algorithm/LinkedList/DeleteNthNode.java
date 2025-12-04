@@ -1,7 +1,5 @@
-/**
- * For more information, visit
- * <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Leetcode link</a>
- */
+// Leetcode link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
 class Node{
     int val;
     Node next;
